@@ -40,6 +40,8 @@ python tools/socks5_checker.py \
 
 ## 相关仓库
 
+- [全网低价IP 官方导航站](https://socks5ip.github.io) — GitHub Pages 聚合入口
+- [proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) — 跨平台代理检测命令行工具
 - [residential-ip-guide-cn](https://github.com/socks5ip/residential-ip-guide-cn) — 住宅 IP 与静态 IP 选型和接入指南
 - [ip-zhishi-base](https://github.com/socks5ip/ip-zhishi-base) — IP 网络基础知识库
 
