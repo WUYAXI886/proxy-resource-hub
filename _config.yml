@@ -1,0 +1,17 @@
+title: "全网低价IP · 代理IP工具与资源导航"
+description: "开源的 SOCKS5 代理检测工具与代理IP资源导航，面向跨境电商、社媒运营、数据采集等场景。"
+baseurl: "/proxy-resource-hub"
+url: "https://socks5ip.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: "全网低价IP"
+  url: "https://socks5ip.com.cn"
+
+social:
+  name: socks5ip
+  github: socks5ip
